@@ -27,7 +27,7 @@
 <h2>📫 Let's Connect!</h2>
 <ul>
   <li>🔗 <strong>GitHub:</strong> <a href="https://github.com/owaishkhan18">@owaishkhan18</a></li>
-  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-profile/">Your LinkedIn Profile</a></li>
+  <li>💼 <strong>LinkedIn:</strong> <a href="[https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/owaish-khan-352a02230/)">Owaish khan </a></li>
   <li>✉️ <strong>Email:</strong> owaishkhan18@gmail.com</li>
 </ul>
 
