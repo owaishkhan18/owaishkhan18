@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Owais Khan!</h1>
+<h1>👋 Hi, I'm Owaish Khan!</h1>
 <p>🚀 <strong>Passionate JavaScript Developer | Open to Collaborations</strong></p>
 
 <h2>👀 About Me</h2>
